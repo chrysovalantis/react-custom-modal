@@ -8,7 +8,7 @@ react-custom-popup is a plain React package for dealing with popups/dialogs.
 npm i react-custom-popup
 ```
 
-## Usage
+## Usage - Test
 
 ```jsx padded
 // root component file
